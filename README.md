@@ -1,2 +1,7 @@
 # 2401730086_Rishika_Pasricha_btechcse_AI_ML_sem3
-2401730086_Rishika_Pasricha_btechcse_AI_ML_sem3 eda project on cricket ipl 
+EDA project on cricket IPL 
+
+Details :
+Roll no :2401730086
+Name : Rishika_Pasricha
+Course : Btechcse AI & ML (sem3)
