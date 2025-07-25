@@ -1,0 +1,2 @@
+# 2401730086_Rishika_Pasricha_btechcse_AI_ML_sem3
+2401730086_Rishika_Pasricha_btechcse_AI_ML_sem3 eda project on cricket ipl 
